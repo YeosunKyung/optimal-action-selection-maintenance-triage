@@ -1,0 +1,245 @@
+{
+ "master_seed": "34336856542980515675663725150568480373",
+ "inputs": [
+  {
+   "name": "cmapss_FD001_seed123_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed1_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed2_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed3_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed42_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed4_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed5_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed6_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed7_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD001_seed8_lgbm",
+   "dataset": "cmapss_FD001"
+  },
+  {
+   "name": "cmapss_FD002_seed123_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed1_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed2_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed3_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed42_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed4_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed5_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed6_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed7_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD002_seed8_lgbm",
+   "dataset": "cmapss_FD002"
+  },
+  {
+   "name": "cmapss_FD003_seed123_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed1_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed2_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed3_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed42_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed4_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed5_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed6_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed7_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD003_seed8_lgbm",
+   "dataset": "cmapss_FD003"
+  },
+  {
+   "name": "cmapss_FD004_seed123_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed1_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed2_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed3_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed42_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed4_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed5_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed6_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed7_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cmapss_FD004_seed8_lgbm",
+   "dataset": "cmapss_FD004"
+  },
+  {
+   "name": "cwru_seed123_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed1_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed2_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed3_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed42_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed4_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed5_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed6_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed7_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "cwru_seed8_lgbm",
+   "dataset": "cwru"
+  },
+  {
+   "name": "uci_hydraulic_seed123_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed1_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed2_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed3_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed42_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed4_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed5_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed6_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed7_lgbm",
+   "dataset": "uci_hydraulic"
+  },
+  {
+   "name": "uci_hydraulic_seed8_lgbm",
+   "dataset": "uci_hydraulic"
+  }
+ ]
+}
